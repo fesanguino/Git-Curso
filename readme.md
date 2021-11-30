@@ -1,3 +1,4 @@
-# github
+# esté é um repositório teste para ensinar como git funciona
 
-arquivo aula git e github
+
+saiba mais em [felipesanguino.com.br](https://www.linkedin.com/in/felipesanguino/)
